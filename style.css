@@ -1,5 +1,16 @@
 body {
-background-color:#1D4221;
-color:white;
-font-family: ;
+    background-color: #1D4221;
+    color: white;
+    font-family: "Story Script", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: darkseagreen;
+    color: black;
+    font-family: "Epunda Slab", serif;
 }
