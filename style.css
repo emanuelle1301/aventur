@@ -14,3 +14,11 @@ button {
     color: black;
     font-family: "Epunda Slab", serif;
 }
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
+}
